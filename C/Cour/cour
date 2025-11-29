@@ -1,0 +1,8 @@
+quand on declare un champ de bits par exemple, (slide 155).
+tt la struct est declare comme un type dans le union est ce type la est attribue a o;
+
+si on utilise nb.o a la place du nb.i, on doit ecrire le type du o a la main et d'ecrire chaque bits et 
+l'associer a son respecite octet
+
+si tu depasse les 32 bits dans l'exemple du cours il va rajouter des 0 ou 1 selon ton signe 
+
